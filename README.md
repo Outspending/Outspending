@@ -23,7 +23,7 @@
 
 <p align="center">
     <a href="https://github.com/oshadxw">
-        <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=oShadxw&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
+        <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=Outspending&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
     </a>
 </p>
 
