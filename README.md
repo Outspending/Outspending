@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@oShadxw">
-        <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=oShadxw&layout=compact&langs_count=5&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
+    <a href="https://wakatime.com/@Outspending">
+        <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=Outspending&layout=compact&langs_count=5&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
     </a>
 </p>
 
