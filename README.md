@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello, I'm Outspending 👋</h1>
-    <p>I'm developing in Skript, Java, Python, Javascript and Typescript. Ik so cool :)</p>
+    <p>I'm a Java developer and still learning :></p>
 </div>
 
 <div align="center">
@@ -13,6 +13,9 @@
 </div>
 
 ---
+<div align="center">
+    <p>Here's some of my stats ❤️</p>
+</div>
 
 <p align="center">
     <a href="https://discord.com/users/982807217952677888">
@@ -32,10 +35,9 @@
     </a>
 </p>
 
-### Spigot Projects
-- GenCorePlus
-  - The ultimate plugin for adding generators to your Spigot Server.
-  - https://www.spigotmc.org/resources/gencore.104404/ (Outdated)
+---
+
+### Current Projects
 - ConfigLib
   - The best way of creating sustainable config files without any hastle. This Library is **Annotation** based
-  - https://github.com/Outspending/ConfigLib
+  - Link: [https://github.com/Outspending/ConfigLib](https://github.com/Outspending/ConfigLib) 
