@@ -31,6 +31,6 @@
 - GenCorePlus
   - The ultimate plugin for adding generators to your Spigot Server.
   - https://www.spigotmc.org/resources/gencore.104404/ (Outdated)
-- HologramSK
-  - Enhances the hologram experience in Skript with additional features.
-  - https://github.com/oShadxw/HologramSK/releases (Coming Soon)
+- ConfigLib
+  - The best way of creating sustainable config files without any hastle. This Library is **Annotation** based
+  - https://github.com/Outspending/ConfigLib
