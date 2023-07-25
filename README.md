@@ -40,4 +40,7 @@
 ### Current Projects
 - ConfigLib
   - The best way of creating sustainable config files without any hastle. This Library is **Annotation** based
-  - Link: [https://github.com/Outspending/ConfigLib](https://github.com/Outspending/ConfigLib) 
+  - Link: [https://github.com/Outspending/ConfigLib](https://github.com/Outspending/ConfigLib)
+- AetherMC
+  - An Asynchronous, Lightweight Minecraft Server
+  - [https://github.com/Outspending/AetherMC](https://github.com/Outspending/AetherMC)
