@@ -44,3 +44,6 @@
 - AetherMC
   - An Asynchronous, Lightweight Minecraft Server
   - [https://github.com/Outspending/AetherMC](https://github.com/Outspending/AetherMC)
+- Nova
+  - My Personal API which features everything, Annotations, Commands, Processors, Collections, Database, Utils and more!
+  - [https://github.com/Outspending/Nova](https://github.com/Outspending/Nova)
