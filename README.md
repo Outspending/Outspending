@@ -45,5 +45,8 @@
   - An Asynchronous, Lightweight Minecraft Server
   - [https://github.com/Outspending/AetherMC](https://github.com/Outspending/AetherMC)
 - Nova
-  - My Personal API which features everything, Annotations, Commands, Processors, Collections, Database, Utils and more!
+  - My Personal API which features everything, **Annotations, Commands, Processors, Collections, Database, Utils and more**!
   - [https://github.com/Outspending/Nova](https://github.com/Outspending/Nova)
+- ParticleAPI
+  - An advanced ParticleAPI which contains **Shapes, Asynchronous Renderers, and Particle Manipulation**
+  - [https://github.com/Outspending/ParticleAPI](https://github.com/Outspending/ParticleAPI)
