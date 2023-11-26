@@ -1,52 +1,49 @@
 <div align="center">
-    <h1>Hello, I'm Outspending 👋</h1>
-    <p>I'm a Java developer and still learning :></p>
-</div>
-
-<div align="center">
-    <a href="https://img.shields.io/github/stars/Outspending"><img src="https://img.shields.io/github/stars/Outspending"></a>
-    <a href="https://img.shields.io/github/last-commit/Outspending/Outspending"><img src="https://img.shields.io/github/last-commit/Outspending/Outspending"></a>
-    <a href="https://img.shields.io/github/contributors/Outspending/Outspending"><img src="https://img.shields.io/github/contributors/Outspending/Outspending"></a>
-    <a href="https://img.shields.io/github/issues/Outspending/Outspending"><img src="https://img.shields.io/github/issues/Outspending/Outspending"></a>
-    <a href="https://img.shields.io/github/followers/Outspending?style=flat"><img src="https://img.shields.io/github/followers/Outspending?style=flat"></a>
-    <a href="https://img.shields.io/github/watchers/Outspending/Outspending"><img src="https://img.shields.io/github/watchers/Outspending/Outspending"></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&center=true&random=false&width=380&lines=Hi%2C+I'm+Outspending">
+    <p>I'm a self taught developer</p>
+    <div>
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    </div>
 </div>
 
 ---
+
 <div align="center">
-    <p>Here's some of my stats ❤️</p>
+    <img src="https://wakatime.com/badge/user/9efd7ad9-64d9-4fa4-82b5-aa02239fcbf9.svg">
+    <img src="http://img.shields.io/badge/Profile%20Views-1311-blue">
 </div>
 
-<p align="center">
-    <a href="https://discord.com/users/982807217952677888">
-        <img alt="My discord" src="https://lanyard.cnrad.dev/api/982807217952677888">
-    </a>
-</p>
+## About Me
+Some information about me.
+```text
+🕑︎ Time Zone: Mountain Standard Time
 
-<p align="center">
-    <a href="https://wakatime.com/@Outspending">
-        <img alt="Wakatime profile" src="https://github-readme-stats.vercel.app/api/wakatime?username=Outspending&layout=compact&langs_count=5&&theme=dracula&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10">
-    </a>
-</p>
+💬 Programming Languages: 
+Java                   247 hrs 12 mins          ██████████████████░░░░░░░   71.59 % 
+Rust                   125 hrs 22 mins          █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+JavaScript             16 hrs 12 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Python                 11 hrs 18 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TypeScript             8 hrs 25 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
-<p align="center">
-    <a href="https://github.com/Outspending">
-        <img alt="Github" src="https://github-readme-stats.vercel.app/api?username=Outspending&theme=dracula&show_icons=true&hide_border=true&bg_color=1a1c1f&icon_color=4e90f0&title=e74545&border_radius=10&card_width=410">
-    </a>
-</p>
+🔥 Editors: 
+Intellij Ultimate      276 hrs 43 mins          ██████████████░░░░░░░░░░░   59.12 % 
+Fleet                  128 hr 29 mins           █████░░░░░░░░░░░░░░░░░░░░   27.88 % 
+VSC                    56 hrs 43 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 
----
+💻 Operating System: 
+Windows                461 hrs 55 mins          █████████████████████████   100.00 % 
+```
 
-### Current Projects
-- ConfigLib
-  - The best way of creating sustainable config files without any hastle. This Library is **Annotation** based
-  - Link: [https://github.com/Outspending/ConfigLib](https://github.com/Outspending/ConfigLib)
-- AetherMC
-  - An Asynchronous, Lightweight Minecraft Server
-  - [https://github.com/Outspending/AetherMC](https://github.com/Outspending/AetherMC)
-- Nova
-  - My Personal API which features everything, **Annotations, Commands, Processors, Collections, Database, Utils and more**!
-  - [https://github.com/Outspending/Nova](https://github.com/Outspending/Nova)
-- ParticleAPI
-  - An advanced ParticleAPI which contains **Shapes, Asynchronous Renderers, and Particle Manipulation**
-  - [https://github.com/Outspending/ParticleAPI](https://github.com/Outspending/ParticleAPI)
+## Current Projects
+These are my current open-source projects.
+```text
+⚠️ N/A                0 commits         █████████████████████████   100.0 % 
+⚠️ N/A                1795 commits      █████████░░░░░░░░░░░░░░░░   37.85 % 
+```
