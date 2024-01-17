@@ -11,16 +11,21 @@
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
         <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     </div>
+    <div>
+        <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+        <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    </div>
 </div>
 
 ---
 
 <div align="center">
     <img src="https://wakatime.com/badge/user/9efd7ad9-64d9-4fa4-82b5-aa02239fcbf9.svg">
-    <img src="http://img.shields.io/badge/Profile%20Views-1311-blue">
+    <img src="http://img.shields.io/badge/Profile%20Views-1527-blue">
 </div>
 
-## About Me
+## 🧐 About Me
 Some information about me.
 ```text
 🕑︎ Time Zone: Mountain Standard Time
@@ -43,7 +48,7 @@ Linux                  41 hrs 18 mins                  08.29 %
 ```
 
 *(Last Updated: January 16th, 2024)*
-## Current Projects
+## 🎉 Current Projects
 These are my current open-source projects.
 ```text
 🧐 BiomesAPI     87 commits                █████████████████████████   100.0 % 
