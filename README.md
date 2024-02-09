@@ -31,25 +31,26 @@ Some information about me.
 🕑︎ Time Zone: Mountain Standard Time
 
 💬 Programming Languages: 
-Java                   300 hrs 46 mins                 60.35 % 
-Rust                   48 hrs 10 mins                  09.87 % 
-Kotlin                 32 hrs 49 mins                  06.59 % 
-Skript                 25 hrs 18 mins                  05.13 % 
+Java                   301 hrs 50 mins                 60.61 % 
+Kotlin                 90 hrs 9 mins                   18.13 % 
+Rust                   49 hrs 47 mins                  10.00 % 
+Skript                 25 hrs 45 mins                  05.17 % 
 Javascript             16 hrs 24 mins                  03.29 % 
 
 🔥 Editors: 
-Intellij Ultimate      345 hrs 23 mins                 69.30 % 
-VS Code                94 hr 22 mins                   18.94 % 
-CLion                  17 hrs 30 mins                  03.51 %
+Intellij Ultimate      345 hrs 23 mins                 69.50 % 
+VS Code                94 hr 25 mins                   19.00 % 
+CLion                  17 hrs 30 mins                  03.52 %
 
 💻 Operating System: 
-Windows                457 hrs 3 mins                  91.71 % 
-Linux                  41 hrs 18 mins                  08.29 % 
+Windows                517 hrs 39 mins                 92.58 % 
+Linux                  41 hrs 18 mins                  07.42 %
 ```
 
-*(Last Updated: January 16th, 2024)*
+*(Last Updated: Feburary 9th, 2024)* 
 ## 🎉 Current Projects
 These are my current open-source projects.
 ```text
-🧐 BiomesAPI     87 commits                █████████████████████████   100.0 % 
+🧐 BiomesAPI          87 commits                       57.89 % 
+⭐ Munch              45 commits                       42.11 % 
 ```
